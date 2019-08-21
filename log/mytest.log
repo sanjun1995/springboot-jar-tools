@@ -1,0 +1,83 @@
+2019-07-05 14:54:26.471  INFO 32629 --- [main] com.miaozhen.xmltool.XmltoolApplication  : Starting XmltoolApplication v0.0.1-SNAPSHOT on tdxy-paas-test3 with PID 32629 (/home/guosong/xmltool/xmltool-0.0.1-SNAPSHOT.jar started by guosong in /home/guosong/xmltool)
+2019-07-05 14:54:26.477  INFO 32629 --- [main] com.miaozhen.xmltool.XmltoolApplication  : No active profile set, falling back to default profiles: default
+2019-07-05 14:54:28.114  INFO 32629 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8888 (http)
+2019-07-05 14:54:28.174  INFO 32629 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2019-07-05 14:54:28.175  INFO 32629 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.21]
+2019-07-05 14:54:28.288  INFO 32629 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2019-07-05 14:54:28.288  INFO 32629 --- [main] o.s.web.context.ContextLoader            : Root WebApplicationContext: initialization completed in 1728 ms
+2019-07-05 14:54:28.365  INFO 32629 --- [main] f.a.AutowiredAnnotationBeanPostProcessor : Autowired annotation is not supported on static methods: public static void com.miaozhen.xmltool.util.SftpUtil.setUsername(java.lang.String)
+2019-07-05 14:54:28.366  INFO 32629 --- [main] f.a.AutowiredAnnotationBeanPostProcessor : Autowired annotation is not supported on static methods: public static void com.miaozhen.xmltool.util.SftpUtil.setPrvkey(java.lang.String)
+2019-07-05 14:54:28.366  INFO 32629 --- [main] f.a.AutowiredAnnotationBeanPostProcessor : Autowired annotation is not supported on static methods: public static void com.miaozhen.xmltool.util.SftpUtil.setLocalFilePath(java.lang.String)
+2019-07-05 14:54:28.366  INFO 32629 --- [main] f.a.AutowiredAnnotationBeanPostProcessor : Autowired annotation is not supported on static methods: public static void com.miaozhen.xmltool.util.SftpUtil.setTargetFilePath(java.lang.String)
+2019-07-05 14:54:28.367  INFO 32629 --- [main] f.a.AutowiredAnnotationBeanPostProcessor : Autowired annotation is not supported on static methods: public static void com.miaozhen.xmltool.util.SftpUtil.setHost(java.lang.String)
+2019-07-05 14:54:28.592  INFO 32629 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2019-07-05 14:54:28.985  INFO 32629 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8888 (http) with context path ''
+2019-07-05 14:54:28.990  INFO 32629 --- [main] com.miaozhen.xmltool.XmltoolApplication  : Started XmltoolApplication in 3.102 seconds (JVM running for 3.729)
+2019-07-05 15:45:47.484  INFO 32629 --- [Thread-3] o.s.s.concurrent.ThreadPoolTaskExecutor  : Shutting down ExecutorService 'applicationTaskExecutor'
+2019-07-05 16:29:33.627  INFO 33261 --- [main] com.miaozhen.xmltool.XmltoolApplication  : Starting XmltoolApplication v0.0.1-SNAPSHOT on tdxy-paas-test3 with PID 33261 (/home/guosong/xmltool/xmltool-0.0.1-SNAPSHOT.jar started by guosong in /home/guosong/xmltool)
+2019-07-05 16:29:33.634  INFO 33261 --- [main] com.miaozhen.xmltool.XmltoolApplication  : No active profile set, falling back to default profiles: default
+2019-07-05 16:29:35.151  INFO 33261 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8888 (http)
+2019-07-05 16:29:35.207  INFO 33261 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2019-07-05 16:29:35.207  INFO 33261 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.21]
+2019-07-05 16:29:35.317  INFO 33261 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2019-07-05 16:29:35.317  INFO 33261 --- [main] o.s.web.context.ContextLoader            : Root WebApplicationContext: initialization completed in 1601 ms
+2019-07-05 16:29:35.394  INFO 33261 --- [main] f.a.AutowiredAnnotationBeanPostProcessor : Autowired annotation is not supported on static methods: public static void com.miaozhen.xmltool.util.SftpUtil.setUsername(java.lang.String)
+2019-07-05 16:29:35.395  INFO 33261 --- [main] f.a.AutowiredAnnotationBeanPostProcessor : Autowired annotation is not supported on static methods: public static void com.miaozhen.xmltool.util.SftpUtil.setPrvkey(java.lang.String)
+2019-07-05 16:29:35.395  INFO 33261 --- [main] f.a.AutowiredAnnotationBeanPostProcessor : Autowired annotation is not supported on static methods: public static void com.miaozhen.xmltool.util.SftpUtil.setLocalFilePath(java.lang.String)
+2019-07-05 16:29:35.395  INFO 33261 --- [main] f.a.AutowiredAnnotationBeanPostProcessor : Autowired annotation is not supported on static methods: public static void com.miaozhen.xmltool.util.SftpUtil.setTargetFilePath(java.lang.String)
+2019-07-05 16:29:35.395  INFO 33261 --- [main] f.a.AutowiredAnnotationBeanPostProcessor : Autowired annotation is not supported on static methods: public static void com.miaozhen.xmltool.util.SftpUtil.setHost(java.lang.String)
+2019-07-05 16:29:35.625  INFO 33261 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2019-07-05 16:29:36.062  INFO 33261 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8888 (http) with context path ''
+2019-07-05 16:29:36.066  INFO 33261 --- [main] com.miaozhen.xmltool.XmltoolApplication  : Started XmltoolApplication in 3.144 seconds (JVM running for 3.735)
+2019-07-05 16:30:42.709  INFO 33261 --- [http-nio-8888-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2019-07-05 16:30:42.709  INFO 33261 --- [http-nio-8888-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2019-07-05 16:30:42.718  INFO 33261 --- [http-nio-8888-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 8 ms
+2019-07-05 16:30:42.752  INFO 33261 --- [http-nio-8888-exec-1] c.m.xmltool.controller.FileController    : 下载文件！
+2019-07-05 16:31:15.439  INFO 33261 --- [Thread-3] o.s.s.concurrent.ThreadPoolTaskExecutor  : Shutting down ExecutorService 'applicationTaskExecutor'
+2019-07-05 16:32:07.886  INFO 34720 --- [main] com.miaozhen.xmltool.XmltoolApplication  : Starting XmltoolApplication v0.0.1-SNAPSHOT on tdxy-paas-test3 with PID 34720 (/home/guosong/xmltool/xmltool-0.0.1-SNAPSHOT.jar started by guosong in /home/guosong/xmltool)
+2019-07-05 16:32:07.890  INFO 34720 --- [main] com.miaozhen.xmltool.XmltoolApplication  : No active profile set, falling back to default profiles: default
+2019-07-05 16:32:09.315  INFO 34720 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8888 (http)
+2019-07-05 16:32:09.367  INFO 34720 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2019-07-05 16:32:09.368  INFO 34720 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.21]
+2019-07-05 16:32:09.473  INFO 34720 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2019-07-05 16:32:09.473  INFO 34720 --- [main] o.s.web.context.ContextLoader            : Root WebApplicationContext: initialization completed in 1519 ms
+2019-07-05 16:32:09.551  INFO 34720 --- [main] f.a.AutowiredAnnotationBeanPostProcessor : Autowired annotation is not supported on static methods: public static void com.miaozhen.xmltool.util.SftpUtil.setHost(java.lang.String)
+2019-07-05 16:32:09.551  INFO 34720 --- [main] f.a.AutowiredAnnotationBeanPostProcessor : Autowired annotation is not supported on static methods: public static void com.miaozhen.xmltool.util.SftpUtil.setUsername(java.lang.String)
+2019-07-05 16:32:09.551  INFO 34720 --- [main] f.a.AutowiredAnnotationBeanPostProcessor : Autowired annotation is not supported on static methods: public static void com.miaozhen.xmltool.util.SftpUtil.setPrvkey(java.lang.String)
+2019-07-05 16:32:09.551  INFO 34720 --- [main] f.a.AutowiredAnnotationBeanPostProcessor : Autowired annotation is not supported on static methods: public static void com.miaozhen.xmltool.util.SftpUtil.setLocalFilePath(java.lang.String)
+2019-07-05 16:32:09.552  INFO 34720 --- [main] f.a.AutowiredAnnotationBeanPostProcessor : Autowired annotation is not supported on static methods: public static void com.miaozhen.xmltool.util.SftpUtil.setTargetFilePath(java.lang.String)
+2019-07-05 16:32:09.790  INFO 34720 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2019-07-05 16:32:10.067  INFO 34720 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8888 (http) with context path ''
+2019-07-05 16:32:10.159  INFO 34720 --- [main] com.miaozhen.xmltool.XmltoolApplication  : Started XmltoolApplication in 2.818 seconds (JVM running for 3.4)
+2019-07-05 16:32:41.873  INFO 34720 --- [Thread-3] o.s.s.concurrent.ThreadPoolTaskExecutor  : Shutting down ExecutorService 'applicationTaskExecutor'
+2019-07-05 16:33:01.819  INFO 35091 --- [main] com.miaozhen.xmltool.XmltoolApplication  : Starting XmltoolApplication v0.0.1-SNAPSHOT on tdxy-paas-test3 with PID 35091 (/home/guosong/xmltool/xmltool-0.0.1-SNAPSHOT.jar started by guosong in /home/guosong/xmltool)
+2019-07-05 16:33:01.825  INFO 35091 --- [main] com.miaozhen.xmltool.XmltoolApplication  : No active profile set, falling back to default profiles: default
+2019-07-05 16:33:03.560  INFO 35091 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8888 (http)
+2019-07-05 16:33:03.610  INFO 35091 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2019-07-05 16:33:03.610  INFO 35091 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.21]
+2019-07-05 16:33:03.715  INFO 35091 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2019-07-05 16:33:03.716  INFO 35091 --- [main] o.s.web.context.ContextLoader            : Root WebApplicationContext: initialization completed in 1797 ms
+2019-07-05 16:33:03.794  INFO 35091 --- [main] f.a.AutowiredAnnotationBeanPostProcessor : Autowired annotation is not supported on static methods: public static void com.miaozhen.xmltool.util.SftpUtil.setLocalFilePath(java.lang.String)
+2019-07-05 16:33:03.795  INFO 35091 --- [main] f.a.AutowiredAnnotationBeanPostProcessor : Autowired annotation is not supported on static methods: public static void com.miaozhen.xmltool.util.SftpUtil.setTargetFilePath(java.lang.String)
+2019-07-05 16:33:03.795  INFO 35091 --- [main] f.a.AutowiredAnnotationBeanPostProcessor : Autowired annotation is not supported on static methods: public static void com.miaozhen.xmltool.util.SftpUtil.setUsername(java.lang.String)
+2019-07-05 16:33:03.795  INFO 35091 --- [main] f.a.AutowiredAnnotationBeanPostProcessor : Autowired annotation is not supported on static methods: public static void com.miaozhen.xmltool.util.SftpUtil.setPrvkey(java.lang.String)
+2019-07-05 16:33:03.795  INFO 35091 --- [main] f.a.AutowiredAnnotationBeanPostProcessor : Autowired annotation is not supported on static methods: public static void com.miaozhen.xmltool.util.SftpUtil.setHost(java.lang.String)
+2019-07-05 16:33:04.081  INFO 35091 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2019-07-05 16:33:04.482  INFO 35091 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8888 (http) with context path ''
+2019-07-05 16:33:04.487  INFO 35091 --- [main] com.miaozhen.xmltool.XmltoolApplication  : Started XmltoolApplication in 3.398 seconds (JVM running for 4.018)
+2019-07-05 16:34:30.023  INFO 35091 --- [Thread-3] o.s.s.concurrent.ThreadPoolTaskExecutor  : Shutting down ExecutorService 'applicationTaskExecutor'
+2019-07-05 16:35:11.769  INFO 36364 --- [main] com.miaozhen.xmltool.XmltoolApplication  : Starting XmltoolApplication v0.0.1-SNAPSHOT on tdxy-paas-test3 with PID 36364 (/home/guosong/xmltool/xmltool-0.0.1-SNAPSHOT.jar started by guosong in /home/guosong/xmltool)
+2019-07-05 16:35:11.773  INFO 36364 --- [main] com.miaozhen.xmltool.XmltoolApplication  : No active profile set, falling back to default profiles: default
+2019-07-05 16:35:13.216  INFO 36364 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8888 (http)
+2019-07-05 16:35:13.265  INFO 36364 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2019-07-05 16:35:13.266  INFO 36364 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.21]
+2019-07-05 16:35:13.373  INFO 36364 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2019-07-05 16:35:13.373  INFO 36364 --- [main] o.s.web.context.ContextLoader            : Root WebApplicationContext: initialization completed in 1537 ms
+2019-07-05 16:35:13.452  INFO 36364 --- [main] f.a.AutowiredAnnotationBeanPostProcessor : Autowired annotation is not supported on static methods: public static void com.miaozhen.xmltool.util.SftpUtil.setUsername(java.lang.String)
+2019-07-05 16:35:13.453  INFO 36364 --- [main] f.a.AutowiredAnnotationBeanPostProcessor : Autowired annotation is not supported on static methods: public static void com.miaozhen.xmltool.util.SftpUtil.setPrvkey(java.lang.String)
+2019-07-05 16:35:13.453  INFO 36364 --- [main] f.a.AutowiredAnnotationBeanPostProcessor : Autowired annotation is not supported on static methods: public static void com.miaozhen.xmltool.util.SftpUtil.setLocalFilePath(java.lang.String)
+2019-07-05 16:35:13.453  INFO 36364 --- [main] f.a.AutowiredAnnotationBeanPostProcessor : Autowired annotation is not supported on static methods: public static void com.miaozhen.xmltool.util.SftpUtil.setTargetFilePath(java.lang.String)
+2019-07-05 16:35:13.453  INFO 36364 --- [main] f.a.AutowiredAnnotationBeanPostProcessor : Autowired annotation is not supported on static methods: public static void com.miaozhen.xmltool.util.SftpUtil.setHost(java.lang.String)
+2019-07-05 16:35:13.678  INFO 36364 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2019-07-05 16:35:14.047  INFO 36364 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8888 (http) with context path ''
+2019-07-05 16:35:14.054  INFO 36364 --- [main] com.miaozhen.xmltool.XmltoolApplication  : Started XmltoolApplication in 2.826 seconds (JVM running for 3.437)

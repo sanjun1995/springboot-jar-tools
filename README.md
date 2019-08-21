@@ -6,6 +6,29 @@
 ```
 java -jar xmltool-0.0.1-SNAPSHOT.jar --spring.config.location=./config/application.properties
 ```
+ * 配置文件
+```
+# 服务端口
+server.port=8080
+
+# 用户名
+username=root
+# 主机名
+host=10.244.1.1
+# 私钥
+prvkey=~/.ssh/id_rsa
+# 本地文件路径
+localFilePath=./1.txt
+# 远程文件路径
+targetFilePath=~/test.txt
+
+# LOGGING
+logging.level.root=INFO
+logging.file=./log/mytest.log
+```
+
+## 日志文件log
+ * 根据logging.file路径设置
 
 ## springboot.sh 一键启动、停止、重启springboot项目脚本
 ```
